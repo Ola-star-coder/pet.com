@@ -5,6 +5,9 @@
     font-family: 'Jura', sans-serif;
 }
 
+html{
+    scroll-behavior:smooth;
+
 /*------------------------------------------ HEADER-------------------------------- */
 .header {
     background: linear-gradient(rgba(0, 0, 0, 0.5), #242221);
