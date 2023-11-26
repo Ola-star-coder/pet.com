@@ -171,7 +171,11 @@ body {
     }
 
     .home {
-        height: 60vh;
+        height: 90vh;
+         background: black;
+    background-position: none;
+    background-size: none;
+        
     }
 }
 
@@ -181,10 +185,13 @@ body {
         padding-top: 50px;
     }
 
-    .home {
-        height: 60vh;
+   .home {
+        height: 90vh;
+         background: black;
+    background-position: none;
+    background-size: none;
+        
     }
-
     .home-content p {
         font-size: 16px;
         color: white;
@@ -487,10 +494,11 @@ body {
         width: 100%;
         height: auto;
         padding: 0 8%;
-        background: linear-gradient(rgba(58, 52, 52, 0.5), #292523),
-            url(services.jpg);
-        /* background-position: center; */
-        background-size: cover;
+         .services{
+         background: black;
+    background-position: none;
+    background-size: none;
+    }
     }
 
     .services h1::after {
